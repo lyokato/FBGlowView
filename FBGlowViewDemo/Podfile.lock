@@ -1,0 +1,14 @@
+PODS:
+  - FBGlowView (0.0.1)
+
+DEPENDENCIES:
+  - FBGlowView (from `..`)
+
+EXTERNAL SOURCES:
+  FBGlowView:
+    :path: ..
+
+SPEC CHECKSUMS:
+  FBGlowView: ebbd90b207324c2da09f37558f53b2769c0129b2
+
+COCOAPODS: 0.27.1
